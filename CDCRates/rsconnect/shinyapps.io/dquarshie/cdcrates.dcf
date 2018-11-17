@@ -1,0 +1,12 @@
+name: cdcrates
+title:
+username:
+account: dquarshie
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 479513
+bundleId: 1614931
+url: https://dquarshie.shinyapps.io/cdcrates/
+when: 1538357820.42869
+asMultiple: FALSE
+asStatic: FALSE
